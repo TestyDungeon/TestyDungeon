@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @TestyDungeon
-- 👀 I’m interested in living my live
-- 🌱 I’m currently learning software development
+- 👀 I’m interested in this
+- 🌱 I’m currently learning that
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me yura.bond.y@gmail.com
-- ⚡ Fun fact: None
+- ⚡ Fun fact: bbbbbbbbbbbbbbbbbbbbbbbbbbb
 
 <!---
 TestyDungeon/TestyDungeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
